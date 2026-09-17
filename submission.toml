@@ -1,7 +1,7 @@
 [evidence]
 site_url = "https://gregogaravaglia.github.io/lab-homepage/"
-archive_url = "YOUR WAYBACK URL"
+archive_url = "https://web.archive.org/web/20260917040817/https://gregogaravaglia.github.io/lab-homepage/"
 backlink_urls = [
-    "YOUR FIRST BACKLINK",
-    "YOUR SECOND BACKLINK",
+    "https://andrea-marie-pua.github.io/lab-homepage/"
+    "https://ivanessaguerrero.github.io/lab-homepage/",
 ]
