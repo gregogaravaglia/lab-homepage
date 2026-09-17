@@ -1,3 +1,22 @@
+.intro {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.highlight {
+    background-color: #dddddd;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.special-text {
+    font-weight: bold;
+    font-style: italic;
+}
+#main-content {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;

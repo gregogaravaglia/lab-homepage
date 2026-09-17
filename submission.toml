@@ -1,7 +1,7 @@
 [evidence]
-site_url = "YOUR-LIVE-WEBSITE-URL"
-archive_url = "YOUR-WAYBACK-MACHINE-URL"
+site_url = "https://gregogaravaglia.github.io/lab-homepage/"
+archive_url = "YOUR WAYBACK URL"
 backlink_urls = [
-  "FIRST-BACKLINK-URL",
-  "SECOND-BACKLINK-URL",
+    "YOUR FIRST BACKLINK",
+    "YOUR SECOND BACKLINK",
 ]
