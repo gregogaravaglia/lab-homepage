@@ -1,1 +1,103 @@
-/* Add your styles here. */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #222222;
+}
+
+nav {
+    background-color: #222222;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #4a7dc9;
+    padding: 5px;
+}
+
+a {
+    color: rgb(247, 1, 1);
+}
+
+a:hover {
+    background-color: #4a7dc9;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.intro {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+.highlight {
+    background-color: #dddddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+.special-text {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#main-content {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #222222;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    nav a {
+        display: block;
+        margin-bottom: 10px;
+    }
+}
